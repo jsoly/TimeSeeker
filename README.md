@@ -4,7 +4,7 @@
 
 ![image](https://github.com/jsoly/TimeSeeker/blob/master/img2.png)
 
-依赖方法：
+## 依赖方法：
 ``` 
 allprojects {
 repositories {
@@ -13,7 +13,7 @@ repositories {
 }
 }
 dependencies {
-  compile 'com.github.jsoly:timeseeker:v1.0'
+  compile 'com.github.jsoly:timeseeker:v1.03'
 }
 ```
 ## 使用方法
@@ -110,6 +110,6 @@ public class MainActivity extends AppCompatActivity {
  }
  ```
     
-###END
+### END
     
     
