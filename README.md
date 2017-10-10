@@ -99,9 +99,9 @@ public class MainActivity extends AppCompatActivity {
         String secondStr = seekerTime.getSecondStr();
         mText.setText("当前秒数："+second +"\n当前时间为："+secondStr);
     }
+ }
+ ```
     
-    ```
-    
-    ###END
+###END
     
     
