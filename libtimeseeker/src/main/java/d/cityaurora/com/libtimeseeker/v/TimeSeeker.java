@@ -114,8 +114,8 @@ public class TimeSeeker extends View {
     protected void onLayout(boolean changed, int left, int top, int right, int bottom) {
         super.onLayout(changed, left, top, right, bottom);
         offset = getMeasuredWidth()/2;
-        topline = getMeasuredHeight()/3;
-        bottomline = getMeasuredHeight()*3/4;
+        topline = getMeasuredHeight()/5;
+        bottomline = getMeasuredHeight()*4/5;
         setPivotX(getMeasuredWidth()/2);
     }
 
