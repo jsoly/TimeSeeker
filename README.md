@@ -2,7 +2,6 @@
 ## 视频时间轴拖拽进度条
 由于公司项目需求，要做一个视频历史录像进度拖动的控件。 
 
-![image](https://github.com/jsoly/TimeSeeker/blob/master/img1.png)
 
 ![image](https://github.com/jsoly/TimeSeeker/blob/master/img2.png)
 
@@ -29,6 +28,8 @@ dependencies {
 ```
 
 * 还可以自定义颜色
+
+![image](https://github.com/jsoly/TimeSeeker/blob/master/img1.png)
 ```
  <d.cityaurora.com.libtimeseeker.v.TimeSeeker
         android:id="@+id/mTimeSeeker"
