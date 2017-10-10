@@ -63,7 +63,7 @@ public class TimeSeeker extends View {
         TypedArray ta = context.obtainStyledAttributes(attrs, R.styleable.TimeSeeker);
         colorLine = ta.getColor(R.styleable.TimeSeeker_clockColor,Color.GRAY);
         textBackgroundColor = ta.getColor(R.styleable.TimeSeeker_textBackgroundColor,Color.GRAY);
-        textColor = ta.getColor(R.styleable.TimeSeeker_clockColor,Color.WHITE);
+        textColor = ta.getColor(R.styleable.TimeSeeker_textColor,Color.WHITE);
         dataColor = ta.getColor(R.styleable.TimeSeeker_dataColor,Color.parseColor("#00B2EE"));
         spaceClock = ta.getDimension(R.styleable.TimeSeeker_spaceWidth,40f);
         if(spaceClock<20){
