@@ -2,9 +2,9 @@
 ## 视频时间轴拖拽进度条
 由于公司项目需求，要做一个视频历史录像进度拖动的控件。 
 
-![image](https://github.com/jsoly/TimeSeeker/img1.png)
+![image](https://github.com/jsoly/TimeSeeker/blob/master/img1.png)
 
-![image](https://github.com/jsoly/TimeSeeker/img2.png)
+![image](https://github.com/jsoly/TimeSeeker/blob/master/img2.png)
 
 依赖方法：
 ``` 
