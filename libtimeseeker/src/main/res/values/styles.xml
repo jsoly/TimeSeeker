@@ -1,0 +1,10 @@
+<resources>
+
+    <declare-styleable name="TimeSeeker">
+        <attr name="dataColor" format="color"/>
+        <attr name="spaceWidth" format="dimension"/>
+        <attr name="clockColor" format="color"/>
+        <attr name="textBackgroundColor" format="color"/>
+        <attr name="textColor" format="color"/>
+    </declare-styleable>
+</resources>
