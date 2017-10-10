@@ -1,5 +1,6 @@
 # TimeSeeker
 --视频时间轴拖拽进度条
+使用方法：
 allprojects {
 repositories {
 ...
