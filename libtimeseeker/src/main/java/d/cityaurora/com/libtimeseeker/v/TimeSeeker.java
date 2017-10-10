@@ -194,12 +194,13 @@ public class TimeSeeker extends View {
     @Override
     protected void onFinishInflate() {
         super.onFinishInflate();
+        /**
         new Timer().schedule(new TimerTask() {
             @Override
             public void run() {
                 secondpp();
             }
-        },1000,10);
+        },1000,10);*/
     }
 
     /**
