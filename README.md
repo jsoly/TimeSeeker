@@ -13,7 +13,7 @@ repositories {
 }
 }
 dependencies {
-  compile 'com.github.jsoly:timeseeker:v1.03'
+  compile 'com.github.jsoly:timeseeker:v1.04'
 }
 ```
 ## 使用方法
