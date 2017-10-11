@@ -187,7 +187,7 @@ public class TimeSeeker extends View {
         if(second<0 || second>60*60*24){
             return;
         }
-        offset = second * spaceClock*5f/3600f - getMeasuredWidth()/2;
+        offset = -(second * spaceClock*5f/3600f - getMeasuredWidth()/2);
         postInvalidate();
     }
 
